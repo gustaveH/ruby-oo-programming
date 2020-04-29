@@ -4,6 +4,7 @@ Object-oriented programming (OOP) is a programming paradigm that uses objects an
 Everything in Ruby is an object, so thing of ojects as blueprint of _things_ or **Objects** within the real world.
 
 _Example_
+
 ![Car object](images/car-object.jpg)
 
 Almost every car has the same features, some with minor tweaks.
